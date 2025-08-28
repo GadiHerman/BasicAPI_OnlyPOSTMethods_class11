@@ -1,0 +1,6 @@
+@BasicAPIpost_HostAddress = http://localhost:5253
+
+GET {{BasicAPIpost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
